@@ -35,20 +35,19 @@
  </a>
  
  
- <a href="https://instagram.com/shikher.09
- " target="_blank">
+ <a href="https://instagram.com/shikher.09" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shikher"/>
  </a> 
 
  <a href="https://leetcode.com/u/shikherJain09/" target="_blank">
-  <img src="https://img.shields.io/badge\leetcode-black?style=for-the-badge&logo=leetcode&logoColor=" alt="Shikher" />
+  <img src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=" alt="Shikher" />
  </a>
  <a href="https://youtube.com/@shikherjain0906?si=fhYw1l0W2AypvHJJ" target="_blank">
-  <img src="https://img.shields.io/badge\youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=" alt="Shikher" />
+  <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=" alt="Shikher" />
  </a>
 
  <a href="https://www.chess.com/member/shikher-09" target="_blank">
-  <img src="https://img.shields.io/badge\chess.com-black?style=for-the-badge&logo=Chess.com" alt="Shikher" />
+  <img src="https://img.shields.io/badge/chess.com-black?style=for-the-badge&logo=Chess.com" alt="Shikher" />
   </a> 
 </p>
 <br />
@@ -62,7 +61,7 @@
  ✌ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: shikherjain786@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Shikher-jain/issues)
+ 💬 &emsp; Ask me about anything [here] (https://github.com/Shikher-jain/issues)
 
 </p>
 
