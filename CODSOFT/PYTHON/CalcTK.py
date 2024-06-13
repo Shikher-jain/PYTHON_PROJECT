@@ -7,7 +7,7 @@ class Calculator:
         self.root.resizable(width=False,height=False)
         self.root.config(bg="#061d2f")
         
-        f=Frame(self.root , bg="white")
+        f=Frame(self.root ,bg="#061d2f")
 
         self.entry = Entry(self.root,width=30,bd=4,relief="sunken",bg="#B7C8CE")
         self.entry.grid(pady=8,row=0, column=0, columnspan=4)
