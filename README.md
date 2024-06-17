@@ -16,8 +16,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="">「 Google Me 」</a>
-    <br>
+<!--     <a href="">「 Google Me 」</a> -->
+<!--     <br> -->
     「 I am a Python developer from <b>India</b> 」
     <br>
     <br>
@@ -58,11 +58,12 @@
 <p>
  <img align="right" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952b1pvm9co2mnse3qtdvfcszr03m4au14uo2lmn1nl&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
   
- 🗃️ &emsp; This Is My Codsoft Repo [here] (https://github.com/Shikher-jain/CODSOFT)<br/><br/>
+ 
+ 🗃️ &emsp; <b>This Is My Codsoft Repo  <a href="https://github.com/Shikher-jain/CODSOFT" target="_blank">[here]<a/><b/><br/><br/>
  ✌  &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤  &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: shikherjain786@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here] (https://github.com/Shikher-jain/issues)<br/><br/>
- 🗃️ &emsp; Visit My Other Repo [here] (https://github.com/Shikher-jain)<br/><br/>
+ 💬 &emsp; Ask me about anything <a href="https://github.com/Shikher-jain/issues" target="_blank">[here]<a/><b/><br/><br/>
+ 🗃️ &emsp; Visit My Other Repo  <a href="https://github.com/Shikher-jain" target="_blank">[here]<a/><b/><br/><br/>
 
 </p>
